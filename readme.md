@@ -34,13 +34,6 @@ It performs basic arithmetic operations and supports both **button clicks** and 
 - `←` or `Backspace` deletes the last character.
 - The typed expression stays visible above the answer.
 
----
-
-## 📷 Preview
-
-![Calculator Screenshot](preview.png) <!-- Add a screenshot named preview.png in repo -->
-
----
 
 ## 🛠️ Tech Stack
 
@@ -48,16 +41,8 @@ It performs basic arithmetic operations and supports both **button clicks** and 
 - CSS
 - JavaScript (Vanilla)
 
----
 
-## 🚀 Live Demo
-
-You can try the calculator by opening `index.html` in any browser  
-or host it with GitHub Pages / Vercel / Netlify.
-
----
-
-## 🙌 Author
+## Author
 
 Made with ❤️ while learning JavaScript step-by-step.
 
