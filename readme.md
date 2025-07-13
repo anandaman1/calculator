@@ -1,11 +1,11 @@
 # Simple Calculator (HTML, CSS, JavaScript)
 
 This is a beginner-friendly calculator web app built using plain HTML, CSS, and JavaScript.  
-It performs basic arithmetic operations and supports both **button clicks** and **keyboard input**.
+It performs basic arithmetic operations and supports both `button clicks` and   `keyboard input`.
 
 ---
 
-## ✨ Features
+## Features
 
 - Basic operations: `+`, `-`, `*`, `/`
 - Decimal support
@@ -16,17 +16,7 @@ It performs basic arithmetic operations and supports both **button clicks** and 
 
 ---
 
-## 📂 Project Structure
-📁 Calculator
-│
-├── index.html # HTML layout
-├── style.css # Styling with Flex/Grid
-└── app.js # JavaScript functionality
-
-
----
-
-## 🧠 How It Works
+## How It Works
 
 - Click buttons or use your keyboard to input numbers and operations.
 - Press `=` or `Enter` to evaluate.
@@ -34,17 +24,16 @@ It performs basic arithmetic operations and supports both **button clicks** and 
 - `←` or `Backspace` deletes the last character.
 - The typed expression stays visible above the answer.
 
-
-## 🛠️ Tech Stack
+---
+## Tech Stack
 
 - HTML
 - CSS
 - JavaScript (Vanilla)
-
-
+---
 ## Author
 
-Made with ❤️ while learning JavaScript step-by-step.
+Made with ❤️ while learning JavaScript.
 
 
 
